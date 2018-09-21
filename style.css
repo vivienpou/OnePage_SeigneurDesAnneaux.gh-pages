@@ -1,0 +1,151 @@
+classbidon{
+    border-width: 1px;
+    border-right: darkviolet;
+}
+
+.carousel-caption{
+    top:10%;
+}
+
+.bordering{
+    border-top-width: thick;
+    border-top-color: #FE651E;
+    border-top-width: 50%;
+}
+
+.ligne{
+    border-bottom-color:black;
+    border-bottom-width: thick;
+}
+
+
+#HowToGetMyReward, #Ring, #contactUs{
+    background-image: url('/home/wilder/Bureau/Quêtes/Integration2/integration_maquette_finale/bg_dark.png')
+}
+#BestHunters, #join,#fellows,#cards,.card-body, .card{
+    background-image: url('/home/wilder/Bureau/Quêtes/Integration2/integration_maquette_finale/bg_light.png')
+}
+
+
+/*Polices de caractère*/
+@font-face {
+    font-family: 'tengwar';
+    src: url('/home/wilder/Bureau/Quêtes/Integration2/tengwar/tngan.ttf') ; 
+    font-size: x-small;
+    font-weight: normal;    
+   }
+
+
+@font-face {
+    font-family: 'business';
+    src: url('/home/wilder/Bureau/Quêtes/Integration2/partybusiness/partybusiness.ttf') ; 
+    font-size: x-small;
+    font-weight: normal;    
+   }
+
+@font-face {
+    font-family: 'aniron';
+    src: url('/home/wilder/Bureau/Quêtes/Integration2/aniron/anicb___.ttf') ; 
+    font-size: x-small;
+    font-weight: normal;    
+   }
+.premsLettre{
+    font-family: 'tengwar';
+    font-size:larger;
+}
+
+.carousel-caption{
+    font-family: 'business';
+}
+
+li:hover{
+    text-decoration-color:white;
+    text-decoration-style: solid;
+    text-decoration-line: underline;
+    font-weight: bold;
+}
+.orangeade{
+    text-decoration-color:orange;
+    text-decoration-style: solid;
+    text-decoration-line: underline;
+    font-weight: bold;
+
+}
+.blackade{
+    text-decoration-color:black;
+    text-decoration-style: solid;
+    text-decoration-line: underline;
+    font-weight: bold;
+}
+
+#footer{
+    text-decoration-color: blanchedalmond;
+}
+
+.coloriage, #footer {
+    background-color:#FE651E ;    
+}
+.police{
+    font-family: 'aniron';
+}
+.police .navbar-nav {
+    font-size: medium;
+}
+
+/* --- Cards --- */
+
+.miniportrait img {
+    border-radius: 5%;
+    opacity : 0.6;
+}
+
+.miniportrait:hover img {
+    opacity: 1;
+    z-index:2;
+}
+#cards .container {
+    padding-bottom: 25px;
+}
+.card-img-overlay {
+    color: #DAA520;
+}
+.card-img-overlay h4 {
+    color: black;
+}
+.orangee{
+    color:orange;
+}
+
+.bordure{
+    border-width: 10px;
+    border-color: black;
+    border-style: solid;
+    color:white;
+    z-index:1;
+}
+
+.fondecran>p{
+    padding-top:10%;
+    color:black;
+    background-color:rgba(234, 242, 245, 0.5);
+    border-radius: 1em;
+    padding: 1em;
+    width:100%;
+}
+
+.fondecran>p:hover{
+    z-index:3;
+}
+
+
+.fondecran>h4{
+    padding-top:30%;
+    padding-left:25%;
+    color:white;
+}
+
+
+
+
+
+
