@@ -20,17 +20,17 @@ classbidon{
 
 
 #HowToGetMyReward, #Ring, #contactUs{
-    background-image: url('/home/wilder/Bureau/Quêtes/Integration2/sauron.gh-pages/integration_maquette_finale/bg_dark.png')
+    background-image: url('integration_maquette_finale/bg_dark.png')
 }
 #BestHunters, #join,#fellows,#cards,.card-body, .card{
-    background-image: url('/home/wilder/Bureau/Quêtes/Integration2/sauron.gh-pages/integration_maquette_finale/bg_light.png')
+    background-image: url('integration_maquette_finale/bg_light.png')
 }
 
 
 /*Polices de caractère*/
 @font-face {
     font-family: 'tengwar';
-    src: url('/home/wilder/Bureau/Quêtes/Integration2/sauron.gh-pages/tengwar/tngan.ttf') ; 
+    src: url('tengwar/tngan.ttf') ; 
     font-size: x-small;
     font-weight: normal;    
    }
@@ -38,14 +38,14 @@ classbidon{
 
 @font-face {
     font-family: 'business';
-    src: url('/home/wilder/Bureau/Quêtes/Integration2/sauron.gh-pages/partybusiness/partybusiness.ttf') ; 
+    src: url('partybusiness/partybusiness.ttf') ; 
     font-size: x-small;
     font-weight: normal;    
    }
 
 @font-face {
     font-family: 'aniron';
-    src: url('/home/wilder/Bureau/Quêtes/Integration2/sauron.gh-pages/aniron/anicb___.ttf') ; 
+    src: url('aniron/anicb___.ttf') ; 
     font-size: x-small;
     font-weight: normal;    
    }
