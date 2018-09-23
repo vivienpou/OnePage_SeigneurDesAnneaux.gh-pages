@@ -6,13 +6,35 @@
 
     h4{
         font-size: 12px;
+        padding-top:20px;
+        padding-left:15px;
+
     }
     .h5{
-        font-size: 11px;
+        display:none;
     }
     .moreinfo, .plan{
         width:70%;
     }
+    .cachecache, #carouselExampleControls, .weneedyou{
+        display:none;
+    }
+    .medaillon{
+        width:30%;
+    }
+    .media{
+        padding-bottom:10px;
+    }
+    .cardou, .card-header{
+        width:120%;
+    }
+    .joino{
+        font-size:11px;
+    }
+    .loremu{
+        font-size:9px;
+    }
+  
     }
 
 
