@@ -1,3 +1,21 @@
+
+@media (max-width: 640px) {
+    * {
+        font-size:10px;
+    }
+
+    h4{
+        font-size: 12px;
+    }
+    .h5{
+        font-size: 11px;
+    }
+    .moreinfo, .plan{
+        width:70%;
+    }
+    }
+
+
 classbidon{
     border-width: 1px;
     border-right: darkviolet;
